@@ -28,7 +28,7 @@ The following configuration variables are required in the `.env` file:
 -   `BLOCK_IO_API_KEY`: Your Block.io API key.
 -   `BLOCK_IO_PIN`: Your Block.io PIN.
 
-# Video Preview:
+# Preview:
 
 <video src="./assets/preview.mp4 " width="520" height="360" controls preload></video>
 
